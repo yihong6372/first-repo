@@ -1,2 +1,2 @@
 access.log
-access.log access1.log
+*.log
